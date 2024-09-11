@@ -3,7 +3,7 @@
 Demo mobile List Products application with flutter, complete UI, mock api dan contracts.
 
 For Backend (API) :
-[Node.js](https://github.com/fanfantasi/Backend-Products)
+[Node.js Backend API](https://github.com/fanfantasi/Backend-Products)
 
 Edit Config your Access API :
 - Lib -> core -> config.dart
