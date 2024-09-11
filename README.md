@@ -4,6 +4,9 @@ Demo mobile List Products application with flutter, complete UI, mock api dan co
 For Backend (API) :
 [Node.js](https://github.com/fanfantasi/Backend-Products)
 
+Edit Config your Access API :
+- Lib -> core -> config.dart
+  
 Feature Project:
 + List Products
 + Pagination Products
