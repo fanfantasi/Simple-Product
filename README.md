@@ -5,6 +5,10 @@ Demo mobile List Products application with flutter, complete UI, mock api dan co
 For Backend (API) :
 [Node.js Backend API](https://github.com/fanfantasi/Backend-Products)
 
+Test Demo APK ready to install can download this:
+[APK](https://github.com/fanfantasi/Simple-Product/blob/Master/app-release.apk)
+
+
 Edit Config your Access API :
 - Lib -> core -> config.dart
   
